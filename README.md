@@ -1,4 +1,4 @@
-# TheTravellingLlama :airplane: 🦙
+# TheTravellingLlama :airplane: 🦙 :backpack 
 
 AI powered trip planning guide built with Llama 3.2 and SerpAPI with Agno Agentic framework  
 --- 🪁 🧑‍🤝‍🧑 🚴‍♂️ 🏖️ 🚡 🤿 ---  
